@@ -1,6 +1,5 @@
 # WeChat Account Purchase 微信账户购 - 专业解决方案白皮书（2023完整指南）
 
-![WeChat账号购买封面图](https://via.placeholder.com/1200x630/3a86ff/ffffff?text=WeChatpurchase)
 
 ## 目录【罔 g点h17b点cc址】
 1. [行业现状分析](#行业现状)
